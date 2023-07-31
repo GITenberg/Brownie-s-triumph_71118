@@ -1,5 +1,8 @@
 _repo: Brownie-s-triumph_71118
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71118-h/images/cover.jpg
 creator:
   author:
     agent_name: Sheldon, Georgie, Mrs.
@@ -14,6 +17,8 @@ creator:
     - http://www.gutenberg.org/ebooks/author/50374
     - https://en.wikipedia.org/wiki/Sarah_Elizabeth_Forbush_Downs
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71118#Brownie-s-triumph
 gutenberg_issued: '2023-07-05'
 identifiers:
   gutenberg: '71118'
